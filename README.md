@@ -19,7 +19,6 @@ This analysis tackles the following business questions:
 4. **Revenue Tracking:** What are the top 5 highest-grossing orders, and what specific combination of items did those customers purchase?
 
 ## Key Insights & Findings
-*(Note: Replace the bracketed text with the actual results from your database!)*
 * **Top Seller:** The most ordered item on the menu is **Hamburger**, which was ordered **622** times.
 * **Category Breakdown:** The **Italian** category has the highest average dish price at **$16.75**.
 * **High-Value Orders:** The highest single order generated **$192.15** in revenue. 
